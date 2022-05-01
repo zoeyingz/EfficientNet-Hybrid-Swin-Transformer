@@ -8,6 +8,8 @@ from tensorflow.keras import Model, Input, applications, layers
 from swin_blocks import *
 
 
+# 修改test
+
 img_size = 512
 class_number = 10
 
